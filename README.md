@@ -11,3 +11,7 @@ $ npm run test
 ## Start Karma
 
 $ npm run karma:build
+
+
+Another Test Runner:
+* [avajs](https://github.com/avajs/ava)
